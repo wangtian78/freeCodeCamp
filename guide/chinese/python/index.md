@@ -4,7 +4,7 @@ localeTitle: 蟒蛇
 ---
 ## 什么是Python？
 
-[Python](https://www.python.org)是一种通用编程语言，它具有动态类型，解释和着名的易读性，并具有出色的设计原则。
+[Python](https://www.python.org)是一种通用编程语言，它具有动态类型，解释和闻名的易读性，并具有出色的设计原则。
 
 要了解有关Python的更多信息，请查看python.org上的这些页面：
 
