@@ -4,7 +4,7 @@ localeTitle: JavaScript的
 ---
 ## JavaScript的
 
-JavaScript是地球上使用最广泛的脚本语言。它拥有任何编程语言中最大的图书馆生态系统。
+JavaScript是世界上使用最广泛的脚本语言。它拥有任何编程语言中最大的图书馆生态系统。
 
 JavaScript是Web的核心语言，也是唯一可以在所有主要Web浏览器中运行的编程语言。
 
